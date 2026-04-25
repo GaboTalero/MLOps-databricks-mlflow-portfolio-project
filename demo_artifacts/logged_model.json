@@ -1,0 +1,54 @@
+{
+  "artifact_location": "dbfs:/databricks/mlflow-tracking/EXAMPLE_EXPERIMENT_ID/logged_models/EXAMPLE_MODEL_ID/artifacts",
+  "creation_timestamp": 1769448902192,
+  "experiment_id": "EXAMPLE_EXPERIMENT_ID",
+  "last_updated_timestamp": 1769448917388,
+  "metrics": [
+    {
+      "_key": "score",
+      "_value": 0.76,
+      "_timestamp": 1769448940336,
+      "_step": 0,
+      "_model_id": "EXAMPLE_MODEL_ID",
+      "_dataset_name": "dataset",
+      "_dataset_digest": "example123",
+      "_run_id": "EXAMPLE_RUN_ID"
+    },
+    {
+      "_key": "accuracy_score",
+      "_value": 0.76,
+      "_timestamp": 1769448940336,
+      "_step": 0,
+      "_model_id": "EXAMPLE_MODEL_ID",
+      "_dataset_name": "dataset",
+      "_dataset_digest": "example123",
+      "_run_id": "EXAMPLE_RUN_ID"
+    },
+    {
+      "_key": "f1_score",
+      "_value": 0.86,
+      "_timestamp": 1769448940336,
+      "_step": 0,
+      "_model_id": "EXAMPLE_MODEL_ID",
+      "_dataset_name": "dataset",
+      "_dataset_digest": "example123",
+      "_run_id": "EXAMPLE_RUN_ID"
+    }
+  ],
+  "model_id": "EXAMPLE_MODEL_ID",
+  "model_type": "",
+  "name": "lightgbm-pipeline-model",
+  "params": {},
+  "source_run_id": "EXAMPLE_RUN_ID",
+  "status": 2,
+  "status_message": "",
+  "tags": {
+    "mlflow.databricks.cluster.id": "SANITIZED_CLUSTER_ID",
+    "mlflow.loggedModel.artifactLocation": "dbfs:/databricks/mlflow-tracking/EXAMPLE_EXPERIMENT_ID/logged_models/EXAMPLE_MODEL_ID/artifacts",
+    "mlflow.loggedModel.name": "lightgbm-pipeline-model",
+    "mlflow.source.name": "LOCAL_SANITIZED_PATH",
+    "mlflow.source.type": "LOCAL",
+    "mlflow.artifacts.spn": "SANITIZED_WORKSPACE_ARTIFACT_PATH",
+    "mlflow.user": "public-demo-user@example.com"
+  }
+}

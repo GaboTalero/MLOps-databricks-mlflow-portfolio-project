@@ -1,0 +1,14 @@
+{
+  "_experiment_id": "EXAMPLE_EXPERIMENT_ID",
+  "_name": "/Shared/public-demo",
+  "_artifact_location": "dbfs:/databricks/mlflow-tracking/EXAMPLE_EXPERIMENT_ID",
+  "_lifecycle_stage": "active",
+  "_tags": {
+    "mlflow.ownerId": "SANITIZED_OWNER_ID",
+    "mlflow.experiment.sourceName": "/Shared/public-demo",
+    "mlflow.ownerEmail": "public-demo-user@example.com",
+    "mlflow.experimentType": "MLFLOW_EXPERIMENT"
+  },
+  "_creation_time": 1768669425742,
+  "_last_update_time": 1768669425742
+}

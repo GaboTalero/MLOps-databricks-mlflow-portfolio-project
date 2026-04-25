@@ -1,0 +1,39 @@
+{
+  "info": {
+    "artifact_uri": "dbfs:/databricks/mlflow-tracking/EXAMPLE_EXPERIMENT_ID/EXAMPLE_RUN_ID/artifacts",
+    "end_time": 1768671479548,
+    "experiment_id": "EXAMPLE_EXPERIMENT_ID",
+    "lifecycle_stage": "active",
+    "run_id": "EXAMPLE_RUN_ID",
+    "run_name": "public-demo-run",
+    "start_time": 1768671477180,
+    "status": "FINISHED",
+    "user_id": ""
+  },
+  "data": {
+    "metrics": {
+      "metric1": 1.0,
+      "metric2": 2.0
+    },
+    "params": {
+      "type": "public_demo"
+    },
+    "tags": {
+      "git_sha": "EXAMPLE_GIT_SHA",
+      "mlflow.note.content": "sanitized public demo run",
+      "mlflow.runColor": "#479a5f",
+      "mlflow.runName": "public-demo-run",
+      "mlflow.source.name": "LOCAL_SANITIZED_PATH",
+      "mlflow.source.type": "LOCAL",
+      "mlflow.user": "public-demo-user@example.com",
+      "mlflow.artifacts.spn": "SANITIZED_WORKSPACE_ARTIFACT_PATH"
+    }
+  },
+  "inputs": {
+    "model_inputs": [],
+    "dataset_inputs": []
+  },
+  "outputs": {
+    "model_outputs": []
+  }
+}
