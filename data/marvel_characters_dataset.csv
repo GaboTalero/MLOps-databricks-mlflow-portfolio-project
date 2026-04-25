@@ -1,0 +1,13 @@
+,PageID,Name,Universe,URL,Identity,Gender,Alive,Marital Status,Teams,Height (m),Weight (kg),Origin,Creators
+0,character_001,Alex Stone,Prime,https://example.com/character_001,Public,Male,Alive,Single,Northwatch,1.82,81.0,Human,Sanitized Demo
+1,character_002,Maya Frost,Prime,https://example.com/character_002,Secret,Female,Alive,Single,,1.68,57.0,Mutant,Sanitized Demo
+2,character_003,Rio Vale,Alt-01,https://example.com/character_003,Unknown,Non-Binary,Dead,Unknown,Orbit Guild,1.75,70.0,Alien,Sanitized Demo
+3,character_004,Lena Ward,Prime,https://example.com/character_004,Public,Female,Alive,Married,,1.71,61.0,Human,Sanitized Demo
+4,character_005,Noah Reed,Alt-02,https://example.com/character_005,Secret,Male,Dead,Single,Night Shift,1.87,88.0,Human Mutate,Sanitized Demo
+5,character_006,Iris Lane,Prime,https://example.com/character_006,Public,Female,Alive,Engaged,,1.64,54.0,Magic User,Sanitized Demo
+6,character_007,Evan Cross,Alt-03,https://example.com/character_007,Unknown,Male,Alive,Unknown,Signal Unit,1.79,76.0,Robot,Sanitized Demo
+7,character_008,Sara Quinn,Prime,https://example.com/character_008,Secret,Female,Dead,Widow,Helix Team,1.73,64.0,Symbiote Host,Sanitized Demo
+8,character_009,Luca Hart,Alt-01,https://example.com/character_009,Public,Male,Alive,Single,,1.83,82.0,Asgardian,Sanitized Demo
+9,character_010,Nia Brooks,Prime,https://example.com/character_010,Unknown,Female,Alive,Married,Northwatch,1.69,60.0,Human,Sanitized Demo
+10,character_011,Owen Blake,Alt-02,https://example.com/character_011,Secret,Male,Alive,Single,,1.9,95.0,Cosmic Being,Sanitized Demo
+11,character_012,Zoe Mercer,Prime,https://example.com/character_012,Public,Female,Dead,Unknown,Orbit Guild,1.66,58.0,Alien Hybrid,Sanitized Demo
